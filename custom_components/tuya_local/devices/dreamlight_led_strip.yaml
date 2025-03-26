@@ -3,6 +3,9 @@ products:
   - id: aok3caeleulg1neh
     manufacturer: LSC
     model: RGBIC+CCT 2x5M
+  - id: rqrkvuxebofiaifp
+    manufacturer: Fancy LED
+    model: Fancy Lightstrip  3
 entities:
   - entity: light
     dps:
